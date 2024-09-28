@@ -1,2 +1,4 @@
 node_modules/
 .env
+middleware
+server.js
